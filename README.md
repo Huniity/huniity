@@ -1,6 +1,6 @@
 ## OLÁ 👋
 
-
+A motivated web development student, passionate about learning new technologies and building innovative digital experiences. Curious, detail-oriented, and always eager to tackle coding challenges.
 <!--
 **Huniity/huniity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
